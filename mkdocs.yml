@@ -19,16 +19,16 @@
 # IN THE SOFTWARE.
 
 # Project information
-site_name: Material for MkDocs
-site_url: https://squidfunk.github.io/mkdocs-material/
-site_author: Martin Donath
-site_description: >-
+site_name: Silferaru
+site_url: https://xsilviaf.github.io/mkdocs-material/
+site_author: Silvia Ardila
+site_description: >- No tengo nada para decir sobre este repositorio.
   Write your documentation in Markdown and create a professional static site in
   minutes – searchable, customizable, for all devices
 
 # Repository
-repo_name: squidfunk/mkdocs-material
-repo_url: https://github.com/squidfunk/mkdocs-material
+repo_name: xsilviaf/mkdocs-material
+repo_url: https://github.com/xsilviaf/mkdocs-material
 
 # Copyright
 copyright: Copyright &copy; 2016 - 2023 Martin Donath
